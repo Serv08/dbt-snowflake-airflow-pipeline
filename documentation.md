@@ -603,3 +603,4 @@ After configuring the connection, you should be able to successfully run `dbt_da
 # Commands when ran from reboot
 ---
 1. Start the container by running `astro dev start` inside `dbt-dag` project or run the container in Docker GUI.
+2. `dbt docs generate` to generate report and `dbt docs serve` to launch documentation locally.
